@@ -1,0 +1,13 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.onnx
+*.pt
+*.pth
+*.bin
+*.ckpt
+node_modules/
+.idea/
+.vscode/
